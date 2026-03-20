@@ -1,1 +1,26 @@
+GoodCabs Dashboard Description
 
+This Power BI dashboard provides a comprehensive analysis of transportation operations data, focusing on demand patterns, passenger behavior, and performance against targets.
+
+The dashboard is divided into four key sections:
+
+1. Executive Overview
+Provides a high-level summary of total trips, total revenue, average fare per km, and passenger ratings. It also highlights top and bottom performing cities along with monthly trends.
+
+2. Demand Analysis
+Analyzes ride demand across weekdays and weekends, identifies peak demand days and months, and compares city-wise trip distribution.
+
+3. Passenger Analysis
+Focuses on customer behavior including total passengers, repeat passenger rate, passenger segmentation (new vs repeat), and retention trends.
+
+4. Target Performance
+Compares actual performance with predefined targets, highlights gaps in trips and ratings, and provides city-level performance status.
+
+Key Highlights:
+- Weekday demand is significantly higher than weekend demand
+- Monday is the peak demand day
+- Jaipur is the top-performing city in terms of trips
+- Repeat passenger rate is relatively low, indicating scope for improving retention
+- Some cities are underperforming against targets
+
+This dashboard enables stakeholders to make data-driven decisions to improve operational efficiency, customer retention, and overall business performance.

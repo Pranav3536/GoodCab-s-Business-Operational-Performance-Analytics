@@ -1,7 +1,6 @@
-### GoodCabs Excel Reports
+### GoodCabs: Excel Reports for Business Analysis
 
 This folder contains Excel reports generated for GoodCabs business analysis. 
-These reports summarize key metrics, visualizations, and business insights.
 
 1. City-wise Business Performance
    - Description: Overview of trips, revenue, and fares per city

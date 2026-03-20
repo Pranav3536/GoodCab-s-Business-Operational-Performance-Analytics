@@ -1,4 +1,4 @@
-GoodCabs Dashboard Description
+*** GOODCABS END-TO-END ANALYTICS DASHBOARD ***
 
 This Power BI dashboard provides a comprehensive analysis of transportation operations data, focusing on demand patterns, passenger behavior, and performance against targets.
 

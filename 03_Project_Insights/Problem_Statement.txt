@@ -1,0 +1,15 @@
+📌 PROBLEM STATEMENT
+
+GoodCabs is a growing cab service company operating in tier-2 cities across India. As the business 
+expands, the company generates a large amount of operational data related to trips, revenue, 
+passenger ratings, and city performance.
+
+However, this data is scattered and difficult to interpret without proper analysis. Decision makers do 
+not have a unified view of important business metrics such as trip demand trends, revenue contribution 
+by city, passenger satisfaction, and operational efficiency.
+
+Without structured analysis, it becomes challenging for the operations team to identify high-
+performing cities, detect demand patterns, and evaluate whether business targets are being achieved.
+
+Therefore, this project focuses on analyzing transportation data and building an interactive Power BI 
+dashboard that helps stakeholders monitor key metrics and support data-driven decision making.

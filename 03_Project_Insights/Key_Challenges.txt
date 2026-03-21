@@ -1,4 +1,3 @@
-
 📌 KEY CHALLENGES
 
 • Lack of a centralized analytical dashboard that provides a clear overview of business performance.

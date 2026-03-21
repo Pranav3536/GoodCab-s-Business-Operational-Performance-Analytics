@@ -1,0 +1,16 @@
+📌 FUTURE SCOPE
+
+• Integrate real-time transportation data to enable live monitoring of 
+  trips, revenue, and operational performance.
+
+• Include additional operational metrics such as driver performance, 
+  trip completion rates, and cancellation analysis.
+
+• Apply predictive analytics to forecast ride demand and optimize 
+  resource allocation across cities.
+
+• Enhance the dashboard with more advanced visualizations and interactive 
+  filters for deeper business analysis.
+
+• Expand the analysis to include customer feedback and sentiment analysis 
+  for improving overall passenger experience.

@@ -1,0 +1,12 @@
+
+📌 BUSINESS INSIGHTS
+
+• A small number of cities contribute a major share of total trips and overall revenue generation.
+
+• Trip demand varies across months, indicating seasonal patterns in transportation usage.
+
+• Repeat passengers represent a significant portion of total rides, highlighting strong customer retention.
+
+• Passenger ratings provide useful indicators of service quality and overall customer satisfaction.
+
+• Performance comparison with predefined targets helps identify cities that are performing well and those that require improvement.

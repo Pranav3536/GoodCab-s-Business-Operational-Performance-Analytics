@@ -1,0 +1,13 @@
+📌 EXPLORATORY DATA ANALYSIS (EDA)
+
+• Reviewed the dataset structure including tables, columns, and relationships between different data sources.
+
+• Checked the data for missing values, inconsistencies, and ensured overall data quality before analysis.
+
+• Performed initial aggregations to understand total trips, revenue generation, and passenger distribution.
+
+• Analyzed city-wise trip distribution to identify high-performing and low-performing locations.
+
+• Examined monthly demand patterns to detect trends and possible seasonal variations in ride demand.
+
+• Identified key business metrics required for building the analytical Power BI dashboard.

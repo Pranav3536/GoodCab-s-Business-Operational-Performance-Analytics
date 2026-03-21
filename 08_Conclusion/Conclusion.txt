@@ -1,0 +1,16 @@
+📌 CONCLUSION
+
+• The analysis of GoodCabs transportation data provides a comprehensive view of 
+  operational performance across multiple tier-2 cities.
+
+• The dashboard highlights key metrics such as total trips, revenue generation, 
+  passenger ratings, and demand patterns across different cities and time periods.
+
+• City-level performance analysis helps identify high-performing locations as well 
+  as areas where operational improvements are required.
+
+• Passenger behavior insights, including repeat passengers and ratings, provide valuable 
+  indicators of customer satisfaction and service quality.
+
+• Overall, the project demonstrates how data analytics and interactive dashboards can 
+  help organizations monitor performance, identify trends, and support data-driven decision making.

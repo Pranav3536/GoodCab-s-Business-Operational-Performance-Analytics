@@ -1,3 +1,4 @@
+
 📌 PROBLEM STATEMENT
 
 GoodCabs is a growing cab service company operating in tier-2 cities across India. As the business 
@@ -13,3 +14,4 @@ performing cities, detect demand patterns, and evaluate whether business targets
 
 Therefore, this project focuses on analyzing transportation data and building an interactive Power BI 
 dashboard that helps stakeholders monitor key metrics and support data-driven decision making.
+

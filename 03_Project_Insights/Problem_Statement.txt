@@ -1,4 +1,3 @@
-
 📌 PROBLEM STATEMENT
 
 GoodCabs is a growing cab service company operating in tier-2 cities across India. As the business 

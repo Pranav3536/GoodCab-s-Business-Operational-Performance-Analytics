@@ -133,7 +133,7 @@ The dashboard provides insights into trip trends, revenue distribution, passenge
 
 🔗 **View the Live Interactive Dashboard**
 
-👉 **[Open Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYTIwZjVlYzQtNzNjNC00NjQzLThiYzMtYzcwNTNhMWI0MjY1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)**
+👉 **[Open Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjAxMmYxMTItMjUxNy00NGRlLTgyYWQtODc5ZDcyNWYyOGViIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)**
 
 ---
 

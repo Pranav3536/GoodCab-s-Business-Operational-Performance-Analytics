@@ -1,0 +1,30 @@
+--> PROJECT TITLE
+GoodCabs Transportation Performance Analysis
+
+--> DOMAIN
+Transportation Analytics | Business Intelligence | Operations Analytics
+
+--> TOOLS & TECHNOLOGIES
+SQL (Data Extraction & Business Query Analysis)
+Power BI (Interactive Dashboard & Data Visualization)
+Excel (Data Validation & Supporting Analysis)
+GitHub (Project Documentation & Version Control)
+
+--> PROJECT SUMMARY
+
+1. This project analyzes operational and passenger data of GoodCabs, a cab service company operating in tier-2 cities across India.
+2. The analysis focuses on key business metrics such as total trips, revenue, passenger ratings, trip demand patterns, and passenger retention.
+3. Multiple analytical dashboards were created to understand city-wise performance, demand distribution, and passenger behavior.
+4. The project simulates a real-world business intelligence scenario where insights help the operations team improve service quality, optimize demand management, and achieve performance targets.
+
+--> KEY ANALYSIS AREAS
+Executive Business Overview
+Demand Trend Analysis
+Passenger Behavior & Retention Analysis
+Target vs Actual Performance Evaluation
+
+--> TARGET USERS
+Chief of Operations
+Business Analysts
+Operations Managers
+Business Decision Makers

@@ -1,11 +1,11 @@
 📌 RECOMMENDATIONS
 
-• Improve operational efficiency and ride availability in cities with lower trip demand.
+Optimize Supply & Availability: Increase driver incentives and fleet presence in underperforming cities like Lucknow and Vadodara to bridge trip target gaps.
 
-• Maintain high service quality standards to ensure strong passenger ratings and better customer satisfaction.
+Standardize Service Quality: Implement mandatory driver training and vehicle audits in low-rating zones (e.g., Lucknow) to align with target satisfaction benchmarks.
 
-• Implement customer engagement strategies to increase repeat passengers and improve retention.
+Enhance Retention Strategies: Deploy targeted loyalty programs and frequency-based discounts to convert "one-time" users into long-term repeat passengers.
 
-• Regularly monitor city-level performance against targets to quickly identify operational gaps.
+Proactive Target Monitoring: Use real-time city-level tracking to identify and resolve operational bottlenecks in cities showing "Action Required" status.
 
-• Use insights from the dashboard to support better planning, resource allocation, and data-driven business decisions.
+Data-Driven Resource Allocation: Prioritize marketing spend and infrastructure support for high-performing, high-fare markets like Jaipur and Kochi.

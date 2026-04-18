@@ -1,11 +1,13 @@
 📌 BUSINESS INSIGHTS
 
-• A small number of cities contribute a major share of total trips and overall revenue generation.
+Revenue Concentration: 33% of total trip volume and revenue is driven by just two key hubs (Jaipur and Lucknow), indicating high geographic dependency.
 
-• Trip demand varies across months, indicating seasonal patterns in transportation usage.
+Seasonal Demand Peaks: Trip volume and revenue peaked significantly in February, followed by a gradual decline, suggesting strong seasonality in travel patterns.
 
-• Repeat passengers represent a significant portion of total rides, highlighting strong customer retention.
+Retention Challenges: While repeat passengers are present, 74% of users are new, highlighting a critical need for loyalty programs to improve long-term retention.
 
-• Passenger ratings provide useful indicators of service quality and overall customer satisfaction.
+Service Quality Gaps: Critical rating variances (e.g., Lucknow at 6.49) pinpoint specific regions where service quality is significantly below the target benchmarks.
 
-• Performance comparison with predefined targets helps identify cities that are performing well and those that require improvement.
+Target Underperformance: Major cities like Lucknow and Vadodara missed trip targets by a wide margin, identifying clear supply-side or marketing bottlenecks.
+
+Persona-Driven Demand: 85% of demand occurs on weekdays with a massive peak on Mondays, confirming that the service primarily caters to working professionals.
